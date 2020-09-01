@@ -1,8 +1,8 @@
 public class ehan {
-    private static ehan a=new ehan();
+    private static ehan a3=new ehan();
     private ehan(){};
     public static ehan newa(){
-        return a;
+        return a3;
     }
 
 }
